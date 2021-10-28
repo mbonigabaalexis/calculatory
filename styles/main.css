@@ -66,3 +66,11 @@ background: #005DB2;
 border-radius: 16px;
 color: #bfe4ff;
 }
+.btnequal{
+    background: #005DB2;
+    border-radius: 16px;
+    color: #bfe4ff; 
+    width: 50px;
+  height: 80px;
+  margin-top: 15px;
+}
